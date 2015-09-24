@@ -1,4 +1,4 @@
-== README - updated
+== README - updated 09/23/2015 Butch Pornebo
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
